@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">spaceX</string>
+
+    <string name="loader_message">Loading</string>
+    <string name="loader_retry">Retry</string>
+
+    <string name="launch_payload_mass">Payload mass: %1$d kg"</string>
+</resources>
